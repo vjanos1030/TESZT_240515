@@ -157,7 +157,7 @@ form button {
     font-size: 16px;
     cursor: url(http://www.rw-designer.com/cursor-extern.php?id=100022), auto; 
     border-radius: 5px;
-    transition: background-color 0.5s;
+    transition: background-color 0.5;
 }
 
 form button:hover {
